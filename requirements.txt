@@ -1,0 +1,14 @@
+torch 
+transformers 
+peft
+datasets
+# for distributed training and mixed precision
+accelerate
+# for quantization (CUDA-only)
+#bitsandbytes
+#
+setuptools
+# for jupyter notebooks -- needs venv reactivation to get into effect
+jupyter
+ipython
+matplotlib
